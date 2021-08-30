@@ -2,6 +2,7 @@
 An advanced Discord token grabber thats easy to use and extremely reliable.
 
 #### :trophy: Features
+- Decently small amount of code.
 - No local caching, undectectable.
 - Tokens and other data can be sent through a Discord webhook.
 - Very Small amount of AV's flag this as a virus.

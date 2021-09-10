@@ -6,7 +6,7 @@ An advanced Discord token grabber thats easy to use and extremely reliable.
 - No local caching, undectectable.
 - Tokens and other data can be sent through a Discord webhook.
 - Very Small amount of AV's flag this as a virus.
-- Scans Chrome, Brave, Opera, Yandex, Firefox, and the Discord Client for tokens.
+- Scans 15+ Sources for tokens.
 - Gathers most computer data.
 - Can easily be obfuscated and packaged into an EXE.
 - Determines if alt-accounts are logged into the same PC, and snipes their tokens as well.
@@ -30,3 +30,6 @@ I created this sofware for an assingment in my CyberSecurity class. Our job was 
 
 #### :rocket: Where to go from here?
 To prevent the further use of token grabbers, I will be working on an anti-token grabber. This will take a while.
+
+#### 🙏 Acknowledgments
+Thanks to [Nexuzzzz](https://github.com/Nexuzzzz) for the extra harvesting paths.

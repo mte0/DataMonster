@@ -1,3 +1,10 @@
+---
+
+# 🎉 A major update is on its way!
+Some really big changes are coming soon! **You can expect a release in the next week.** Support this side project by giving this repo a ⭐.
+
+---
+
 ## :alien: Token Monster
 An advanced Discord token grabber thats easy to use and extremely reliable.
 

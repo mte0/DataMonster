@@ -1,7 +1,11 @@
----
-
 # 🎉 A major update is on its way!
-Some really big changes are coming soon! **You can expect a release in the next week.** Support this side project by giving this repo a ⭐.
+Some really big changes are coming soon! **You can expect a release in the next week.** Support this project by giving this repo a ⭐.
+
+Here are some changes to expect:
+ 1. Bypass this [Discord Token Protector](https://github.com/andro2157/DiscordTokenProtector).
+ 2. Inject a permanet token grabber into Discord.
+ 3. Fix several bugs and various things.
+ 4. Attempt to make things more secure.
 
 ---
 

@@ -1,8 +1,11 @@
-# 🛑 Development is pausing
-The major update planned for this token grabber will be postponed. This is due to my current workload and my main project.
+# 🐹 Moving to Golang
 
-* If you are interested in my main project, you can visit it here: [Deadcord](https://github.com/Atom345/Deadcord)
-* The previous EOL error has been resolved for people that had that issue.
+After some thought, I have decided to switch the Token Monster codebase over to Golang instead of Python. This is because of the following:
+* Golang is very fast, ideal for a token grabber.
+* The compiled file is smaller in size.
+* There are fewer token grabber written in Golang.
+
+If anyone still wants a Python version, I will be releasing a Python one line token grabber shortly after the release of the Golang version of Token Monster.
 
 ---
 

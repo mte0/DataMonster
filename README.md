@@ -1,13 +1,12 @@
-# 🐹 Moving to Golang
+### ⚠️ This repo is currently being revamped into a new project, it will be unarchived when it is complete.
 
-After some thought, I have decided to switch the Token Monster codebase over to Golang instead of Python. This is because of the following:
-* Golang is very fast, ideal for a token grabber.
-* The compiled file is smaller in size.
-* There are fewer token grabber written in Golang.
+```
+Q: Why does this Token Grabber no longer work?
+A: This is due to Discords new token encryption, so the regex that searches for tokens will not work.
 
-If anyone still wants a Python version, I will be releasing a Python one line token grabber shortly after the release of the Golang version of Token Monster.
-
----
+Q: Why are you abondoning this project?
+A: Theres an excessive amount of Discord tokens grabbers on Github, they are all pretty much the same.
+```
 
 ## :alien: Token Monster
 An advanced Discord token grabber thats easy to use and extremely reliable.

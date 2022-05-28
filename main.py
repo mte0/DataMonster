@@ -8,8 +8,12 @@ def retrieve_user(token):
 
 
 def network_address():
-    ip = json.loads(requests.get("https://api.ipify.org?format=json").text)
-    return ip["ip"]
+    try:
+        ip = requests.get('https://utilities.tk/network/info').json()['ip']
+        return ip
+    except:
+        ip = json.loads(requests.get("https://api.ipify.org?format=json").text)
+        return ip["ip"]
 
 
 def system_info(return_type=0):
